@@ -26,7 +26,7 @@ This repository contains the backend API for the Public Space Maintenance Reques
 
 ### Prerequisites
 
-- .NET 7.0 SDK or higher
+- .NET 8.0 SDK or higher
 - SQL Server (local or cloud-based)
 
 ### Setup and Installation
