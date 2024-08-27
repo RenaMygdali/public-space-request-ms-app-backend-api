@@ -40,3 +40,5 @@ Thumbs.db
 
 # Ignore sensitive configuration files
 appsettings.json
+
+material/
