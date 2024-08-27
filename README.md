@@ -33,7 +33,7 @@ This repository contains the backend API for the Public Space Maintenance Reques
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/psm-request-backend.git
+   git clone https://github.com/RenaMygdali/psm-request-backend.git
    cd psm-request-backend```
 
 2. Restore the dependencies and tools required for the project:
