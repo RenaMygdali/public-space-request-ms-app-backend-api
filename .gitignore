@@ -1,0 +1,43 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.swp
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+
+# Rider
+.idea/
+
+# Logs
+Logs/
+
+# User-specific files
+*.userprefs
+
+# ASP.NET Core
+*.dbmdl
+*.bak
+*.backup
+*.sql
+*.pdb
+*.db
+dependencies/
+
+# Npm
+node_modules/
+npm-debug.log
+
+# Coverage
+coverage/
+*.lcov
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive configuration files
+appsettings.json
