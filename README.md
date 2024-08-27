@@ -48,6 +48,16 @@ This repository contains the backend API for the Public Space Maintenance Reques
    ```dotnet run```
 The API will be available at http://localhost:5000/api.
 
+## Database Setup
+
+To set up the SQL Server database, follow these steps:
+
+1. Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
+2. Open the script file `PublicSpaceMaintenanceRequestMS.sql` included in the `database-scripts` folder.
+3. Execute the script to create the database and tables.
+
+The script will create the `PublicSpaceMaintenanceRequestMSDb` database and initialize the schema required for the project.
+
 ### API Documentation
 The API documentation is available via Swagger. Navigate to http://localhost:5000/swagger once the application is running.
 
