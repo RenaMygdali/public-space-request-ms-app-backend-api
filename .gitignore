@@ -22,7 +22,6 @@ Logs/
 *.dbmdl
 *.bak
 *.backup
-*.sql
 *.pdb
 *.db
 dependencies/
